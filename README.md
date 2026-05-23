@@ -9,7 +9,7 @@ core programming concepts.
 | File | Description |
 |------|-------------|
 | Calculator.java | Simple calculator using switch |
-| ReportCard.java | Grade checker using if/else |
+| Miniproject.java | Grade checker using if/else |
 | LargestOfThree.java | Finds largest of 3 numbers |
 
 ## 🛠️ Language
