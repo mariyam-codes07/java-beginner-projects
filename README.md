@@ -1,2 +1,2 @@
 # java-beginner-projects
-Java practice programs — Calculator, Report Card, Largest Number
+Java practice programs — Calculator, Miniproject(Report Card), Largest Number  
